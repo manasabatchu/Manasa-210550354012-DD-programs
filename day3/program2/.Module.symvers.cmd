@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device-drivers/day3/program2/Module.symvers := sed 's/ko$$/o/' /home/manasa/Desktop/device-drivers/day3/program2/modules.order | scripts/mod/modpost -m -a   -o /home/manasa/Desktop/device-drivers/day3/program2/Module.symvers -e -i Module.symvers   -T -

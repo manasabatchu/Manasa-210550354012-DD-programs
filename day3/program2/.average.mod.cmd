@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device-drivers/day3/program2/average.mod := { echo  /home/manasa/Desktop/device-drivers/day3/program2/average.o;  echo; } > /home/manasa/Desktop/device-drivers/day3/program2/average.mod

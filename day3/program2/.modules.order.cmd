@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device-drivers/day3/program2/modules.order := {   echo /home/manasa/Desktop/device-drivers/day3/program2/add.ko;   echo /home/manasa/Desktop/device-drivers/day3/program2/average.ko; :; } | awk '!x[$$0]++' - > /home/manasa/Desktop/device-drivers/day3/program2/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device-drivers/day3/program2/add.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/manasa/Desktop/device-drivers/day3/program2/add.ko /home/manasa/Desktop/device-drivers/day3/program2/add.o /home/manasa/Desktop/device-drivers/day3/program2/add.mod.o;  true
