@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device_drivers/day4/program2/CharDriver.mod := { echo  /home/manasa/Desktop/device_drivers/day4/program2/CharDriver.o;  echo; } > /home/manasa/Desktop/device_drivers/day4/program2/CharDriver.mod

@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device_drivers/day4/program2/CharDriver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/manasa/Desktop/device_drivers/day4/program2/CharDriver.ko /home/manasa/Desktop/device_drivers/day4/program2/CharDriver.o /home/manasa/Desktop/device_drivers/day4/program2/CharDriver.mod.o;  true
