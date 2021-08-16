@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device_drivers/day5/program2/mydriver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/manasa/Desktop/device_drivers/day5/program2/mydriver.ko /home/manasa/Desktop/device_drivers/day5/program2/mydriver.o /home/manasa/Desktop/device_drivers/day5/program2/mydriver.mod.o;  true

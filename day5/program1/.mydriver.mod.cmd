@@ -1,0 +1,1 @@
+cmd_/home/manasa/Desktop/device_drivers/day5/program1/mydriver.mod := { echo  /home/manasa/Desktop/device_drivers/day5/program1/mydriver.o;  echo; } > /home/manasa/Desktop/device_drivers/day5/program1/mydriver.mod
